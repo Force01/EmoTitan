@@ -20,7 +20,7 @@ PS
 
 <b>Note: This IDE setup is for macOS and Windows 7 /10</b> 
 
-Thanks for watching and good luck!
+Thanks for playing and good luck!
 
 EMOTIV INC: https://www.emotiv.com
 
