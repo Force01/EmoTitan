@@ -10,7 +10,7 @@ This is a tutorial to setup this Java application. An integration with Emotiv EE
 
 <b>Assumptions</b> 
 
-You are a developer and/or have a working knowledge of a Java IDE tool coding with Java, REST APIs, and JSON formatting. This Java application is not exclusive to any one platform, but ServiceNow is my playground and the environment that I’m in day and day out. My App. EmoTitan has no UI it is all code based. I’m leaving the UI design creativity to you the developers! :D This is just the fundamentals to get you started in understanding the Emotiv APIs that I worked with. I’m very excited to share the work I’ve done I hope you find it useful and/or inspire to create something on your own and it.
+You are a developer and/or have a working knowledge of a Java IDE tool coding with Java, REST APIs, and JSON formatting. This Java application is not exclusive to any one platform, but ServiceNow is my playground and the environment that I’m in day and day out. My App. EmoTitan has no UI it is all code based. I’m leaving the UI design creativity to you the developers! :D This is just the fundamentals to get you started in understanding the Emotiv APIs that I worked with. I’m very excited to share the work I’ve done I hope you find it useful and/or inspire to create something on your own and share it.
 
 <b>Emotiv website and GitHub</b>
 
